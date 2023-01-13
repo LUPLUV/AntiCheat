@@ -1,13 +1,13 @@
-package one.devsky.boilerplates
+package dev.lupluv.anticheat
 
-import one.devsky.boilerplates.managers.RegisterManager.registerAll
+import dev.lupluv.anticheat.managers.RegisterManager.registerAll
 import org.bukkit.plugin.java.JavaPlugin
 import kotlin.system.measureTimeMillis
 
-class PaperBoilerplate : JavaPlugin() {
+class AntiCheat : JavaPlugin() {
 
     companion object {
-        lateinit var instance: PaperBoilerplate
+        lateinit var instance: AntiCheat
             private set
     }
 

@@ -10,10 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff31960a-d3cf-414c-b552-a7f8295cda0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/devsky/boilerplates/PaperBoilerplate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/lupluv/anticheat/AntiCheat.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/devsky/boilerplates/annotations/RegisterCommand.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/lupluv/anticheat/annotations/RegisterCommand.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/devsky/boilerplates/commands/TemplateCommand.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/lupluv/anticheat/commands/TemplateCommand.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/devsky/boilerplates/listeners/TemplateListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/lupluv/anticheat/listeners/TemplateListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/devsky/boilerplates/managers/RegisterManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/lupluv/anticheat/managers/RegisterManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,37 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PaperMC-Plugin-Boilerplate" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PaperMC-Plugin-Boilerplate" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PaperMC-Plugin-Boilerplate" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,11 +88,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "F:/Dokumente/Projects/Kotlin/Minecraft/Boilerplates/PaperMC-Plugin-Boilerplate/src/main/resources/plugin.yml",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "F:/Development/java/workspace/lupluv_dev/AntiCheat",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

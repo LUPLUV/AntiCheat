@@ -1,6 +1,8 @@
-name: PaperBoilerplate
-main: one.devsky.boilerplates.PaperBoilerplate
-version: 1.18.2
+name: AntiCheat
+main: dev.lupluv.anticheat.AntiCheat
+version: 1.0
 description: "This is a template for a new plugin based on MoltenKT and Paper."
-author: "CoasterFreakDE"
-api-version: 1.18
+authors:
+  - LUPLUV
+  - oglis22
+api-version: 1.19

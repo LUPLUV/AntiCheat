@@ -4,8 +4,8 @@ plugins {
     kotlin("jvm") version "1.7.10"
 }
 
-group = "one.devsky.boilerplates"
-version = "1.1-SNAPSHOT"
+group = "dev.lupluv"
+version = "1.0-SNAPSHOT"
 
 val moltenVersion: String by project
 val exposedVersion: String by project

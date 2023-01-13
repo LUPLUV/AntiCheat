@@ -1,4 +1,4 @@
-package one.devsky.boilerplates.listeners
+package dev.lupluv.anticheat.listeners
 
 import de.moltenKt.unfold.text
 import org.bukkit.event.EventHandler

@@ -1,7 +1,7 @@
-package one.devsky.boilerplates.commands
+package dev.lupluv.anticheat.commands
 
 import de.moltenKt.unfold.text
-import one.devsky.boilerplates.annotations.RegisterCommand
+import dev.lupluv.anticheat.annotations.RegisterCommand
 import org.bukkit.command.Command
 import org.bukkit.command.CommandExecutor
 import org.bukkit.command.CommandSender
